@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Shafna Shroff\Desktop\NEW\Fantezy Project final\Fantezy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+559084374.index
+558487466.index
+2902469510.index
+2242534168.index
+233348525.index
+426530529.index
